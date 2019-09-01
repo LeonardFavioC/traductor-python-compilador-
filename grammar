@@ -1,0 +1,7 @@
+E -> TC
+C -> +TC | -TC | @
+T -> FI
+I -> *FI | /FI | @
+F -> (E) | n | i | P | M
+P -> p(n,n)
+M -> m(n,n)
